@@ -2,9 +2,9 @@
 //12-31-2021
 //Codecademy Front End Engineering Course
 
-//A JS program to convert Kelvin to Celsius, then to Farenheit.
+//A JS program to convert Kelvin to Celsius, then to Fahrenheit.
 
-// A variable named kelvin, and set it equal to 293 for todays forcast of 293 Kelvin.
+// A variable named kelvin, and set it equal to 293 for todays forecast of 293 Kelvin.
 const kelvin = 293;
 
 //To convert Kelvin to Celsius by subtracting 273 from the kelvin var.
@@ -17,7 +17,7 @@ let fahrenheit = celsius * (9 / 5) + 32;
 fahrenheit = Math.floor(fahrenheit);
 
 
-console.log(`The temperature is ${fahrenheit} degrees Farenheit.`);
+console.log(`The temperature is ${fahrenheit} degrees Fahrenheit.`);
 
 console.log(`The temperature is ${celsius} degrees Celsius.`);
 
