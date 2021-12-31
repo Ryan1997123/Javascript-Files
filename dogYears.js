@@ -1,3 +1,7 @@
+//Ryan Monaghan
+//12-31-2021
+//Codecademy Front-End Engineering Course
+
 /*Program to convert human and dog years (age)*/
 /*Dogs mature at a faster rate than human beings. 
 We often say a dog’s age can be calculated in “dog years” to account for their growth compared to a human of the same age.
