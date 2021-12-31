@@ -30,7 +30,8 @@ console.log(laterYears);
 /*Add earlyYears and laterYears together, and store that in a variable named myAgeInDogYears.*/
 myAgeInDogYears = earlyYears + laterYears;
 
-/*Write your name as a string, call its built-in method .toLowerCase(), and store the result in a variable called myName.The toLowerCase method returns a string with all lowercase letters.*/
+/*Write your name as a string, call its built-in method .toLowerCase(), and store the result in a variable called myName.
+The toLowerCase method returns a string with all lowercase letters.*/
 myName = 'Ryan'.toLowerCase();
 
 console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`);
