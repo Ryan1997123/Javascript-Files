@@ -7,7 +7,7 @@
 // A variable named kelvin, and set it equal to 293 for todays forecast of 293 Kelvin.
 const kelvin = 293;
 
-//To convert Kelvin to Celsius by subtracting 273 from the kelvin var.
+//To convert Kelvin to Celsius by subtracting 273 from the kelvin variable.
 const celsius = kelvin - 273;
 
 //Fahrenheit = Celsius * (9/5) + 32
