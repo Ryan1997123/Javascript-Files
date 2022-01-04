@@ -27,3 +27,4 @@ console.log(`The temperature is ${kelvin} degrees Kelvin.`);
 //Newton = Celsius * (33/100)
 const newton = Math.floor(celsius * (33 / 100));
 console.log(`The temperature is ${newton} degrees Newton`);
+
