@@ -79,5 +79,5 @@ const playGame = () => {
   console.log('The computer threw: ' + computerChoice);
   console.log(determineWinner(userChoice, computerChoice));
 }
-//Play the game
+//Play the game now
 playGame()
