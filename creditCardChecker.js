@@ -1,3 +1,20 @@
+//Ryan Monaghan
+//Credit Card Checker Program
+//03-07-2022
+
+/** 
+
+Project Goals
+
+ Context: The company that you work for suspects that credit card distributors have been mailing out cards that have invalid numbers.
+ In this project, you have the role of a clerk who checks if credit cards are valid. 
+ Every other clerk currently checks using pencil and paper, but you’ll be optimizing the verification process using your knowledge of functions and loops to handle multiple credit cards at a time.
+ Unlike the other clerks, you can spend the rest of your time relaxing!
+
+As you progress through the steps, use the terminal and console.log() statements to check the output of your loops and functions.
+
+ */
+
 // All valid credit card numbers
 const valid1 = [4, 5, 3, 9, 6, 7, 7, 9, 0, 8, 0, 1, 6, 8, 0, 8];
 const valid2 = [5, 5, 3, 5, 7, 6, 6, 7, 6, 8, 7, 5, 1, 4, 3, 9];
